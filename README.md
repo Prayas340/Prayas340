@@ -11,14 +11,24 @@
 
 I design and build **visually elaborate, motion-heavy web experiences** — the kind that make static portfolios feel like interactive stories. Somewhere between an engineer and a digital set designer, I spend my days blending code with craft.
 
-```txt
-const prayas = {
-    role: "Full-Stack Developer & Creative Technologist",
-    focus: ["Interactive Web", "3D on the Web", "Cloud & Backend Systems"],
-    currentlyExploring: "Rust systems programming + AI-powered tooling",
-    philosophy: "If it doesn't move, it doesn't ship."
-};
-```
+<table>
+<tr>
+<td>🎯 <b>Role</b></td>
+<td>Full-Stack Developer & Creative Technologist</td>
+</tr>
+<tr>
+<td>🧩 <b>Focus</b></td>
+<td>Interactive Web · 3D on the Web · Cloud & Backend Systems</td>
+</tr>
+<tr>
+<td>🔭 <b>Currently Exploring</b></td>
+<td>Rust systems programming + AI-powered tooling</td>
+</tr>
+<tr>
+<td>💭 <b>Philosophy</b></td>
+<td><i>"If it doesn't move, it doesn't ship."</i></td>
+</tr>
+</table>
 
 <br>
 
@@ -90,8 +100,6 @@ const prayas = {
 <div align="center">
 <img src="https://raw.githubusercontent.com/Prayas340/Prayas340/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
-> Note: the snake animation above needs a one-time GitHub Action to generate — see setup note at the bottom of this file.
 
 <br>
 
