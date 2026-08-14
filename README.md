@@ -1,27 +1,102 @@
-# 💫 About Me:
-B.Tech Student | Python Developer |<br>Google Cloud Certified | Aspiring Software Entrepreneur
+<!-- Auto-generated. Do not edit directly — see /scripts and GitHub Action. -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Lvl. prayas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prayas-dey?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deyprayas3@gmail.com) 
+  <!-- 1. HERO BANNER -->
+  <a href="https://github.com/Prayas340">
+    <img src="assets/hero-banner.svg" alt="Prayas340 Hero Banner" width="100%" />
+  </a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prayas340&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Prayas340&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prayas340&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prayas340&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+### 🛸 About & Creative Direction
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prayas340&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Hey there! I'm **Prayas**, Founder & Creative Technologist at **[JonRad Studio](https://github.com/Prayas340)**.
 
----
-[![](https://komarev.com/ghpvc/?username=Prayas340&icon=0&color=0)](https://visitcount.itsvg.in)
+I specialize in building **high-performance 3D web experiences**, interactive creative frontends, and bespoke digital products that merge real-time WebGL, fluid kinetic typography, and rock-solid software architecture.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 **Currently Building:** Next-generation 3D interactive web experiences & creative tools at JonRad Studio
+- 🌐 **Specialties:** Three.js / React Three Fiber, WebGL shaders, GSAP kinetic animations, and design systems
+- 🤝 **Collaboration:** Open for high-impact freelance projects, 3D web contracts, and creative engineering consulting
+- ⚡ **Philosophy:** Code is the canvas; performance is the art.
+
+<br>
+
+<div align="center">
+
+  <!-- 2. TECH STACK ROW -->
+  <img src="assets/tech-stack.svg" alt="JonRad Studio Tech Stack" width="100%" />
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+  <!-- 3. 3D MONTHLY CONTRIBUTION CHART -->
+  <a href="https://github.com/Prayas340">
+    <img src="assets/contribution-chart.svg" alt="3D Monthly Contribution Matrix" width="100%" />
+  </a>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+  <!-- 4. STAT CAPSULES -->
+  <a href="https://github.com/Prayas340">
+    <img src="assets/stat-capsules.svg" alt="Live GitHub Stats" width="100%" />
+  </a>
+
+</div>
+
+<br>
+<br>
+
+### 🪐 Featured Works & JonRad Studio Projects
+
+| Project | Tech Stack | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **[JonRad 3D Showcase](https://github.com/Prayas340)** | `Three.js` `R3F` `GSAP` | Immersive interactive 3D portfolio & spatial audio gallery | 🟢 Active |
+| **[Kinetic Shader Engine](https://github.com/Prayas340)** | `WebGL` `GLSL` `React` | Real-time GLSL post-processing & procedural mesh deformations | 🚀 Released |
+| **[Spatial UI Design System](https://github.com/Prayas340)** | `TypeScript` `Tailwind` | Glassmorphic spatial UI components with hardware-accelerated physics | 📦 v1.2 |
+| **[Profile Matrix Pipeline](https://github.com/Prayas340/Prayas340)** | `Node.js` `SVG SMIL` `GH Actions` | Self-updating 3D isometric GitHub profile engine | ✨ Live |
+
+<br>
+<br>
+
+<div align="center">
+
+  <!-- FOOTER & CONTACT -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/prayas-dey/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Prayas%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Prayas340" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Prayas340-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:contact@jonradstudio.com">
+      <img src="https://img.shields.io/badge/Email-JonRad%20Studio-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@jonradstudio-F43F5E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://wa.me/" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </p>
+
+  <br>
+
+  <sub>⚡ Designed with isometric 3D aesthetics & native SMIL vector motion · Auto-updated daily via GitHub Actions</sub>
+
+</div>
