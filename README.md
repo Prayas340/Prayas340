@@ -86,12 +86,14 @@ I design and build **visually elaborate, motion-heavy web experiences** — the 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prayas340&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9C9C9&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prayas340&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9C9C9&bg_color=0D1117" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prayas340&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayas340&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" height="165"/>
 
 </div>
+
+<sub><i>If a card above doesn't load, it's the shared public stats server being rate-limited — refresh the page after a bit, or see the self-hosting note below.</i></sub>
 
 <br>
 
