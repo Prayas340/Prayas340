@@ -22,7 +22,7 @@ I design and build **visually elaborate, motion-heavy web experiences** — the 
 </tr>
 <tr>
 <td>🔭 <b>Currently Exploring</b></td>
-<td>Rust systems programming + AI-powered tooling</td>
+<td>LLM fine-tuning, RAG pipelines & AI-driven automation</td>
 </tr>
 <tr>
 <td>💭 <b>Philosophy</b></td>
@@ -82,18 +82,24 @@ I design and build **visually elaborate, motion-heavy web experiences** — the 
 
 <br>
 
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Development-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-6D28D9?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-6D28D9?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br>
+
 ### 📡 Live Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prayas340&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9C9C9&bg_color=0D1117" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prayas340&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayas340&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" height="165"/>
-
 </div>
-
-<sub><i>If a card above doesn't load, it's the shared public stats server being rate-limited — refresh the page after a bit, or see the self-hosting note below.</i></sub>
 
 <br>
 
